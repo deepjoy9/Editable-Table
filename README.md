@@ -1,8 +1,16 @@
-# React + Vite
+# Editable Table Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React-based application that allows users to manage an editable table. Users can add, edit, and delete rows dynamically.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Editable Table**: Add, edit, and delete rows dynamically.
+- **Modal Form**: A modal form for adding and editing rows.
+- **State Management**: Efficient state management for handling row data.
+- **Validation**: Form validation using custom logic.
+- **Responsive Design**: Ensures a great user experience on both desktop and mobile devices.
+
+## App Screenshots
+
+![Table](https://res.cloudinary.com/dfzzmqoho/image/upload/v1720798841/My-Project-Images/editable-table-app-table_wkgceo.png)
+![Modal](https://res.cloudinary.com/dfzzmqoho/image/upload/v1720798841/My-Project-Images/editable-table-app-modal_rojfkf.png) 
